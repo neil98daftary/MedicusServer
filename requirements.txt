@@ -1,0 +1,12 @@
+Django==1.11
+djangorestframework==3.7.7
+gunicorn==19.7.1
+nltk==3.2.5
+numpy==1.14.0
+pandas==0.22.0
+python-dateutil==2.6.1
+pytz==2018.3
+scikit-learn==0.19.1
+scipy==1.0.0
+six==1.11.0
+whitenoise==3.3.1
